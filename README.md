@@ -1,8 +1,8 @@
-# Magic Merge 
+# Magic Merge
 by Alayna Ferdarko ✨
 
-**Version:** 1.0  
-**Release Date:** 21 February, 2025
+**Version:** 2.0
+**Release Date:** 24 March, 2025
 
 ## What is Magic Merge? 🔮
 **Magic Merge** is here to save your day (and your PDFs)! It's a sleek, easy-to-use tool that lets you merge multiple PDF files into one, effortlessly. No more messing around with complicated software or command-line tricks—just drag, drop, and merge!
@@ -16,6 +16,7 @@ Whether you're combining contracts, presentations, or personal files, **Magic Me
 - **Save Anywhere**: Choose exactly where you want to save your newly merged PDF with the "Browse Save Location" button.
 - **Merge with a Click**: Once everything’s in place, hit "Merge PDFs" and let **Magic Merge** handle the rest.
 - **Clear the List**: If you make a mistake or change your mind, just click the "Clear List" button and start over!
+- **File Validation**: Added validation to ensure that only PDF files are selected for merging.
 
 ## How to Use 🛠️
 
@@ -40,10 +41,6 @@ Whether you're combining contracts, presentations, or personal files, **Magic Me
 - Ensure your save location is selected before merging, or else the app won't know where to save your newly merged document.
 - The progress bar will keep you updated, so you can sit back and relax while **Magic Merge** works its magic!
 
-Sure! Here's a lovely little addition to the **Magic Merge** readme with installation instructions from GitHub, as well as the dependencies required for this tool. It'll be clear, friendly, and to the point:
-
----
-
 ## Installation from GitHub 🛠️
 
 Ready to use **Magic Merge**? Here’s how to get it running on your system in just a few steps:
@@ -54,7 +51,6 @@ You can either clone the repository or download it directly from GitHub:
 1. **Clone the repository** (if you're familiar with Git):
    ```bash
    git clone https://github.com/alaynavendetta/MagicMerge.git
-   ```
    
 2. **Download the ZIP file**:  
    Head to the [Magic Merge GitHub page](https://github.com/alaynavendetta/MagicMerge), click the **"Code"** button, and select **"Download ZIP"**. Then, extract the contents to a folder of your choice.

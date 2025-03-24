@@ -2,7 +2,10 @@
 by Alayna Ferdarko ✨
 
 **Version:** 2.0
-**Release Date:** 24 March, 2025
+
+**Release Date:** 21 February, 2025
+
+**Update Date for Version 2:** 24 March, 2025
 
 ## What is Magic Merge? 🔮
 **Magic Merge** is here to save your day (and your PDFs)! It's a sleek, easy-to-use tool that lets you merge multiple PDF files into one, effortlessly. No more messing around with complicated software or command-line tricks—just drag, drop, and merge!
